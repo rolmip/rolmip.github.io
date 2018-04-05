@@ -22,18 +22,17 @@ To install ROLMIP in your computer, it suffices to unzip the file "robust_lmi_pa
 
 ## Versions history
 
-Version 1.0: First release.
-
+Version 1.0: First release.<br>
 Version 1.1: Insertion of the syntax to choose, in the polynomial structure definition, to which monomial each matrix is related.
-
+<br>
 Version 2.0: Implementation of the multi-simplex structure; Insertion of the procedure affine2poly.m, to convert an affinely parameter-dependent polynomial into the multi-simplex structure.
-
+<br>
 Version 2.1: Easier definitions for constant matrices using poly_struct; Adaptation of the LMI definitions to the newest YALMIP version (thanks to Hugo Tadashi); Bug corrections.
-
+<br>
 Version 2.2: Bug corrections.
-
+<br>
 Version 2.3: Bug corrections.
-
+<br>
 Version 3.0: Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
 
 ## Contact
@@ -55,31 +54,31 @@ Conference on Automation (CBA 2012), pages 2298-2305, Campina Grande, PB, Brasil
 ### Bibtex version:
 
 @INPROCEEDINGS{AOP:12c,
-
+<br>
 author = {C. M. Agulhari and R. C. L. F. de Oliveira and P. L. D. Peres},
-
+<br>
 title = {Robust {LMI} {P}arser: a computational package to construct {LMI} conditions for uncertain systems},
-
+<br>
 booktitle = {XIX Brazilian Conference on Automation (CBA 2012)},
-
+<br>
 year = {2012},
-
+<br>
 pages = {2298--2305},
-
+<br>
 month = {September},
-
+<br>
 address = {Campina Grande, PB, Brazil},
-
+<br>
 }
 
 ## Links
 
 [SeDuMi](http://sedumi.ie.lehigh.edu/)
-
+<br>
 [Mosek](https://www.mosek.com/)
-
+<br>
 [R-RoMulOC - Randomized and Robust Multi-Objective Control toolbox](http://homepages.laas.fr/peaucell/software.php#romuloc)
-
+<br>
 [SOSTools](http://www.cds.caltech.edu/sostools/)
 
 ## Who used Rolmip
