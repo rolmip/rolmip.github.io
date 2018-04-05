@@ -10,7 +10,7 @@ ROLMIP (Robust LMI Parser) is a set of programs that works along with the [YALMI
 
 The main objective of ROLMIP is to provide an easy interface for the user, starting from the definition of the variables and going through a straighforward way in defining the LMIs. In addition, once all the variables and LMIs are set they can be converted into a Matlab executable file which solves the same problem but consuming much less time.
 
-The details of ROLMIP can be found in the [User Manual](https://github.com/rolmip/rolmip.github.io/raw/master/manual_rolmip.zip).
+The details of ROLMIP can be found in the [User Manual](https://github.com/rolmip/rolmip.github.io/raw/master/manual_rolmip.pdf).
 
 ## Download - New Version!
 
