@@ -22,18 +22,18 @@ To install ROLMIP in your computer, it suffices to unzip the file "robust_lmi_pa
 
 ## Versions history
 
-Version 1.0: First release.<br>
-Version 1.1: Insertion of the syntax to choose, in the polynomial structure definition, to which monomial each matrix is related.
+[Version 1.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_1_0.zip) First release.<br>
+[Version 1.1:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_1_1.zip) Insertion of the syntax to choose, in the polynomial structure definition, to which monomial each matrix is related.
 <br>
-Version 2.0: Implementation of the multi-simplex structure; Insertion of the procedure affine2poly.m, to convert an affinely parameter-dependent polynomial into the multi-simplex structure.
+[Version 2.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_2_0.zip) Implementation of the multi-simplex structure; Insertion of the procedure affine2poly.m, to convert an affinely parameter-dependent polynomial into the multi-simplex structure.
 <br>
-Version 2.1: Easier definitions for constant matrices using poly_struct; Adaptation of the LMI definitions to the newest YALMIP version (thanks to Hugo Tadashi); Bug corrections.
+[Version 2.1:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_2_1.zip) Easier definitions for constant matrices using poly_struct; Adaptation of the LMI definitions to the newest YALMIP version (thanks to Hugo Tadashi); Bug corrections.
 <br>
-Version 2.2: Bug corrections.
+[Version 2.2:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_2_2.zip) Bug corrections.
 <br>
-Version 2.3: Bug corrections.
+[Version 2.3:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version_2_3.zip) Bug corrections.
 <br>
-Version 3.0: Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
+[Version 3.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
 
 ## Contact
 
