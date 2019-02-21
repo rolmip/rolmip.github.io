@@ -33,7 +33,9 @@ To install ROLMIP in your computer, it suffices to unzip the file "robust_lmi_pa
 <br>
 [Version 2.3:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version2_3.zip) Bug corrections.
 <br>
-[Version 3.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
+[Version 3.0a:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version3_0a.zip) Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
+<br>
+[Version 3.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) Bug corrections; Manual update.
 
 ## Contact
 
