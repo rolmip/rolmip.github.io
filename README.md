@@ -58,16 +58,23 @@ http://doi.acm.org/10.1145/3323925
 ### Bibtex version:
 
 @article{AFOP:19,
-     author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and
-P. L. D. Peres},
-     title = {Algorithm 995: {T}he {R}obust {LMI} {P}arser --- {A}
-toolbox to construct {LMI} conditions for uncertain systems},
+
+     author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and P. L. D. Peres},
+     
+     title = {Algorithm 995: {T}he {R}obust {LMI} {P}arser --- {A} toolbox to construct {LMI} conditions for uncertain systems},
+     
      journal = {ACM Transactions on Mathematical Software},
+     
      volume = {45},
+     
      number = {3},
+     
      pages = {36:1--36:25},
+     
      year  = {2019},
+     
      month = {August},
+     
 }
 
 ## Links
