@@ -47,9 +47,9 @@ The current version of ROLMIP is free of charge and openly distributed, but if y
 
 Citation for [YALMIP](http://users.isy.liu.se/johanl/yalmip/pmwiki.php?n=Main.License)
 
-### Citation for ROLMIP:
+### Citation for ROLMIP (New journal reference):
 
-C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres. Algorithm 995: The Robust LMI Parser — A Toolbox to Construct LMI Conditions for Uncertain Systems. ACM Transactions on Mathematical Software, 45(3): 36:1-36:25, August 2019. 
+C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres. Algorithm 998: The Robust LMI Parser — A Toolbox to Construct LMI Conditions for Uncertain Systems. ACM Transactions on Mathematical Software, 45(3): 36:1-36:25, August 2019. 
 
 ### DOI:
 
@@ -57,24 +57,15 @@ http://doi.acm.org/10.1145/3323925
 
 ### Bibtex version:
 
-@article{AFOP:19,
-
-author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and P. L. D. Peres},
-     
-title = {Algorithm 995: {T}he {R}obust {LMI} {P}arser --- {A} toolbox to construct {LMI} conditions for uncertain systems},
-     
-journal = {ACM Transactions on Mathematical Software},
-    
-volume = {45},
-     
-number = {3},
-     
-pages = {36:1--36:25},
-     
-year  = {2019},
-     
-month = {August},
-     
+@article{AFOP:19,<br>
+author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and P. L. D. Peres},<br>
+title = {Algorithm 998: {T}he {R}obust {LMI} {P}arser --- {A} toolbox to construct {LMI} conditions for uncertain systems},<br>
+journal = {ACM Transactions on Mathematical Software},<br>
+volume = {45},<br>
+number = {3},<br>
+pages = {36:1--36:25},<br>
+year  = {2019},<br>
+month = {August},<br>
 }
 
 ## Links
