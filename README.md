@@ -82,3 +82,8 @@ month = {August},<br>
 ## Who used Rolmip
 
 Click [here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=pt-BR) to see who already used Rolmip.
+
+
+## Acknowledgments
+
+This work is supported by the Brazilian agency CNPq grant 402830/2016-4.
