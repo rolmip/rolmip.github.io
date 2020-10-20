@@ -42,7 +42,7 @@ To install ROLMIP in your computer, it suffices to unzip the file "robust_lmi_pa
 
 ## Contact
 
-If you found any bug or have any suggestion to improve the ROLMIP project, don't hesitate to contact me! Cristiano Marcos Agulhari, email: agulhari AT dt DOT fee DOT unicamp DOT br
+If you found any bug or have any suggestion to improve the ROLMIP project, don't hesitate to contact me! Cristiano Marcos Agulhari, email: agulhari AT utfpr DOT edu DOT br
 
 ## Citations
 
