@@ -15,7 +15,7 @@ The details of ROLMIP can be found in the [User Manual](https://github.com/rolmi
 
 ## Download - New Version!
 
-Download ROLMIP 3.0 [here](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) !
+Download ROLMIP 3.1 [here](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) !
 
 ## Installation
 
@@ -37,6 +37,8 @@ To install ROLMIP in your computer, it suffices to unzip the file "robust_lmi_pa
 [Version 3.0a:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version3_0a.zip) Insertion of the rolmipvar variable, which brings new functionalities; Bug corrections.
 <br>
 [Version 3.0:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) Bug corrections; Manual update.
+<br>
+[Version 3.1:](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser_version3_1.zip) Bug corrections; Compatibility with Octave.
 
 ## Contact
 
