@@ -2,7 +2,7 @@
 
 The last version of ROLMIP can be downloaded [here](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip).
 
-Last Update: 20 October, 2020.
+Last Update: 05 November, 2021.
 
 
 ## About the Software
@@ -15,7 +15,7 @@ The details of ROLMIP can be found in the [User Manual](https://github.com/rolmi
 
 ## Download - New Version!
 
-Download ROLMIP 3.1 [here](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) !
+Download ROLMIP 3.2 [here](https://github.com/rolmip/rolmip.github.io/raw/master/robust_lmi_parser.zip) !
 
 ## Installation
 
