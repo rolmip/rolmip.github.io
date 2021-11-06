@@ -85,6 +85,7 @@ month = {August},<br>
 
 Click [here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=pt-BR) to see who already used Rolmip.
 
+<a href="https://clustrmaps.com/site/1bkzr" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=cZZMBeAZi_jHLLIZNjhvIkFwaRtVkR5eyBS7zqv_V1g&cl=ffffff"></a>
 
 ## Acknowledgments
 
