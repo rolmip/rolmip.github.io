@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+
+:root > * {
+    --md-title-font: "Young Serif";
+    --md-primary-fg-color: #eb4d4b;
+    --md-primary-fg-color--light: #ecb7b7;
+    --md-primary-fg-color--dark: #90030c;
+    --md-accent-fg-color: #eb4d4b;
+    --md-accent-fg-color--transparent: #eb4d4b1a;
+}
+
+.rolmip,
+.md-header__title .md-ellipsis,
+.md-nav--primary .md-nav__title[for="__drawer"] {
+    font-family: var(--md-title-font), var(--md-text-font), serif;
+    font-weight: lighter;
+}
+
+.md-header__topic {
+    transition: unset !important;
+}
+
+.md-nav--secondary {
+    border-color: var(--md-accent-fg-color) !important;
+}
+
+.author {
+    border-radius: 50%;
+    border: 3px solid var(--md-primary-fg-color);
+}
