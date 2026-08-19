@@ -26,7 +26,7 @@ The details of {{ rolmip }} can be found in the [User Manual](https://github.com
 
 ## Installation
 
-To install {{ rolmip }}, it suffices to unzip the zip file into a separate folder and then add the folder `rolmip` to MATLAB's path.
+To install {{ rolmip }}, it suffices to unzip the `.zip` file into a separate folder and then add the folder `rolmip` to MATLAB's path.
 
 ---
 
