@@ -114,7 +114,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
 ## Citations
 
-{{ rolmip }} and its derivative software (RolmiPy and PolyAny) are open source, but if you use {{ rolmip }} (and, consequently, YALMIP) in your programs, please cite us.
+{{ rolmip }} and its derivative software ([RolmiPy](./rolmipy.md) and [PolyAny](https://github.com/rolmip/polyany)) are open source, but if you use {{ rolmip }} (and, consequently, YALMIP) in your programs, please cite us.
 
 Citation for [YALMIP](https://yalmip.github.io/reference/lofberg2004/)
 
