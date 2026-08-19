@@ -22,7 +22,7 @@ The details of {{ rolmip }} can be found in the [User Manual](https://github.com
 
 ## Download
 
-Download {{ rolmip }} [here](https://github.com/rolmip/rolmip/archive/refs/tags/3.3.zip)!
+[:lucide-download: Download Rolmip here](https://github.com/rolmip/rolmip/archive/refs/tags/3.3.zip){ .md-button .md-button--primary }
 
 ## Installation
 
