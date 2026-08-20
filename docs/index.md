@@ -42,7 +42,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ---
 
-    ![Cristiano Agulhari](./assets/agulhari.png){ align=left width=165 .author }
+    ![Cristiano Agulhari](./assets/agulhari.jpg){ align=left width=165 .author }
 
     Core developer of Rolmip and RolmiPy<br>
     Full professor at [UTFPR](https://www.utfpr.edu.br/)
@@ -79,7 +79,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ---
 
-    ![Pedro Peres](./assets/pedro.png){ align=left width=165 .author }
+    ![Pedro Peres](./assets/pedro.jpg){ align=left width=165 .author }
 
     Core developer of Rolmip<br>
     Full professor at [UNICAMP](https://www.unicamp.br/en/)
@@ -91,7 +91,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ---
 
-    ![Esdras Battosti](./assets/esdras.png){ align=left width=165 .author }
+    ![Esdras Battosti](./assets/esdras.jpg){ align=left width=165 .author }
 
     Core developer of RolmiPy and [PolyAny](https://rolmip.github.io/polyany)<br>
     PhD candidate at [UTFPR](https://www.utfpr.edu.br/)
