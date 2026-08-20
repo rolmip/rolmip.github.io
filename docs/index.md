@@ -152,7 +152,7 @@ http://doi.acm.org/10.1145/3323925
 
 ## Who used Rolmip
 
-[Click here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=en) to see who already used {{ rolmip }}.
+[Click here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=en "Citations in Google Scholar") to see who already used {{ rolmip }}.
 
 ## Acknowledgments
 
