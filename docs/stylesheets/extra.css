@@ -9,6 +9,10 @@
     --md-accent-fg-color--transparent: #eb4d4b1a;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .rolmip,
 .md-header__title .md-ellipsis,
 .md-nav--primary .md-nav__title[for="__drawer"] {
