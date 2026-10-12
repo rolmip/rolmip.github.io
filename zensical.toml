@@ -1,0 +1,134 @@
+[project]
+site_url = "https://rolmip.github.io/"
+site_name = "Rolmip"
+site_description = "The Robust LMI Parser"
+site_author = "Cristiano M. Agulhari, Alexandre Felipe, Ricardo C. L. F. Oliveira, Pedro L. D. Peres and Esdras B. Silva"
+repo_url = "https://github.com/rolmip/rolmip"
+repo_name = "rolmip/rolmip"
+
+copyright = "Copyright &copy; 2026 ROLMIP Team"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Documentation" = "manual.md" },
+  { "RolmiPy" = "rolmipy.md" },
+  { "PolyAny" = "https://rolmip.github.io/polyany" },
+]
+
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = [
+  "javascripts/mathjax.js",
+  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+]
+
+[project.extra]
+rolmip = "<span class=\"rolmip\">Rolmip</span>"
+
+[project.theme]
+custom_dir = "docs/overrides"
+favicon = "assets/logo_red.svg"
+language = "en"
+features = [
+  "announce.dismiss",
+  "content.code.annotate",
+  "content.code.copy",
+  "content.code.select",
+  "content.footnote.tooltips",
+  "content.tabs.link",
+  "content.tooltips",
+  "content.action.view",
+  "content.action.edit",
+  "navigation.expand",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "navigation.tracking",
+  "search.highlight",
+  "toc.follow",
+  "toc.integrate",
+]
+
+logo = "assets/logo_red.svg"
+
+[project.theme.font]
+text = "Inter"
+code = "Lilex"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+primary = "custom"
+accent = "custom"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+primary = "custom"
+accent = "custom"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+primary = "custom"
+accent = "custom"
+
+[project.markdown_extensions]
+abbr = {}
+admonition = {}
+attr_list = {}
+def_list = {}
+footnotes = {}
+md_in_html = {}
+toc = {
+  permalink = true
+}
+pymdownx.arithmatex = {
+  generic = true
+}
+pymdownx.blocks.caption = {}
+pymdownx.betterem = {}
+pymdownx.caret = {}
+pymdownx.details = {}
+pymdownx.emoji = {
+  emoji_generator = "zensical.extensions.emoji.to_svg",
+  emoji_index = "zensical.extensions.emoji.twemoji",
+}
+pymdownx.highlight = {
+  anchor_linenums = true,
+  line_spans = "__span",
+  pygments_lang_class = true,
+}
+pymdownx.inlinehilite = {}
+pymdownx.keys = {}
+pymdownx.magiclink = {}
+pymdownx.mark = {}
+pymdownx.smartsymbols = {}
+pymdownx.snippets = {
+    auto_append = ["includes/abbreviations.md"]
+}
+pymdownx.superfences = {
+  custom_fences = [
+    {
+      name = "mermaid",
+      class = "mermaid",
+      format = "pymdownx.superfences.fence_code_format",
+    },
+  ],
+}
+pymdownx.tabbed = {
+  alternate_style = true,
+  combine_header_slug = true
+}
+pymdownx.tasklist = {
+  custom_checkbox = true
+}
+pymdownx.tilde = {}
+zensical.extensions.macros = {}
