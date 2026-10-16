@@ -1,5 +1,8 @@
 ---
 icon: material/file-document
+hide:
+  - toc
+  - navigation
 ---
 
 # Documentation

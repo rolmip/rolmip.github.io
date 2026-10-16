@@ -1,6 +1,9 @@
 ---
 icon: lucide/check
 title: Getting started
+hide:
+  - navigation
+  - toc
 ---
 
 <h2>

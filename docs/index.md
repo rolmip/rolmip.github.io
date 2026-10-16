@@ -1,5 +1,8 @@
 ---
 icon: lucide/rocket
+hide:
+  - navigation
+  - toc
 ---
 
 <div class="logo" align="center">
