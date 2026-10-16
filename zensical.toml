@@ -5,6 +5,7 @@ site_description = "The Robust LMI Parser"
 site_author = "Cristiano M. Agulhari, Alexandre Felipe, Ricardo C. L. F. Oliveira, Pedro L. D. Peres and Esdras B. Silva"
 repo_url = "https://github.com/rolmip/rolmip"
 repo_name = "rolmip/rolmip"
+edit_uri = "https://github.com/rolmip/rolmip.github.io/edit/main/docs/"
 
 copyright = "Copyright &copy; 2026 ROLMIP Team"
 
