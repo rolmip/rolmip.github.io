@@ -82,7 +82,7 @@ All six examples include downloadable MATLAB scripts.
 
 ## 4. Compute an $\mathcal{H}_\infty$ bound
 
-**Two vertices. Worts-case energy gain.**
+**Two vertices. Worst-case energy gain.**
 
 !!! note
 
