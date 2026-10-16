@@ -42,7 +42,7 @@ BRL = [BRL_11 BRL_12 BRL_13;
 LMIs = [W >= 1e-6*eye(2), BRL <= 0];
 options = sdpsettings('solver', 'sedumi', 'verbose', 0);
 result = optimize(LMIs, eta, options);
-if result.problem ~= 1 && min(checkset(LMIs)) > -1e-6
+if result.problem == 0 && min(checkset(LMIs)) > -1e-6
     hinf_bound = sqrt(value(eta));
     K = value(Z)*inv(value(W));
     fprintf('Robust H-infinity upper bound: %.6f Gain K = [%.4f %.4f]\n', hinf_bound,K);
