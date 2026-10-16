@@ -64,7 +64,7 @@ All six examples include downloadable MATLAB scripts.
 
 !!! note
 
-      Requires SeDuMi or a different SDP solver that can be selected in `sdpsettings`.
+      Requires [SeDuMi](https://sedumi.ie.lehigh.edu/) or a different SDP solver that can be selected in `sdpsettings`.
 
 ```matlab title="stability_example.m"
 --8<-- "docs/examples/stability_example.m"
@@ -86,7 +86,7 @@ All six examples include downloadable MATLAB scripts.
 
 !!! note
 
-      Requires SeDuMi or a different SDP solver that can be selected in `sdpsettings`.
+      Requires [SeDuMi](https://sedumi.ie.lehigh.edu/) or a different SDP solver that can be selected in `sdpsettings`.
 
 ```matlab title="hinf_example.m"
 --8<-- "docs/examples/hinf_example.m"
@@ -111,7 +111,7 @@ All six examples include downloadable MATLAB scripts.
 
 !!! note
 
-      Requires SeDuMi or a different SDP solver that can be selected in `sdpsettings`.
+      Requires [SeDuMi](https://sedumi.ie.lehigh.edu/) or a different SDP solver that can be selected in `sdpsettings`.
 
 ```matlab title="h2_example.m"
 --8<-- "docs/examples/h2_example.m"
@@ -137,7 +137,7 @@ All six examples include downloadable MATLAB scripts.
 
 !!! note
 
-      Requires SeDuMi or a different SDP solver that can be selected in `sdpsettings`.
+      Requires [SeDuMi](https://sedumi.ie.lehigh.edu/) or a different SDP solver that can be selected in `sdpsettings`.
 
 ```matlab title="state_feedback_hinf_example.m"
 --8<-- "docs/examples/state_feedback_hinf_example.m"
