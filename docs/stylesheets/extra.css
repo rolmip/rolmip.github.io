@@ -28,6 +28,10 @@ html {
     color: var(--md-title-color);
 }
 
+.md-main__inner.md-grid {
+  max-width: 80vw;
+}
+
 .logo > img {
     transform: translateX(38px);
 }
