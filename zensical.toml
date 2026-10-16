@@ -135,3 +135,13 @@ pymdownx.tasklist = {
 }
 pymdownx.tilde = {}
 zensical.extensions.macros = {}
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/rolmip/rolmip"
+name = "Source code"
+
+[[project.extra.social]]
+icon = "material/file-document"
+link = "./manual"
+name = "User manual"
