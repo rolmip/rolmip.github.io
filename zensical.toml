@@ -7,7 +7,7 @@ repo_url = "https://github.com/rolmip/rolmip"
 repo_name = "rolmip/rolmip"
 edit_uri = "https://github.com/rolmip/rolmip.github.io/edit/main/docs/"
 
-copyright = "Copyright &copy; 2026 ROLMIP Team"
+copyright = "Copyright &copy; 2019 - 2026 The ROLMIP Foundation"
 
 nav = [
   { "Home" = "index.md" },
