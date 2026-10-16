@@ -6,35 +6,34 @@ icon: lucide/rocket
   <img src="assets/logo_rolmip.svg" alt="ROLMIP Logo" width="250">
 </div>
 
-<h1 align="center" markdown>
-  <strong>The Robust LMI Parser</strong>
+<h1 class="main-title" align="center">
+  The Robust LMI Parser
 </h1>
 
----
+<div class="home-equation" align="center" markdown>
+$A(\alpha) = \sum_k A_k\,\alpha^k, \quad a_i \geq 0, \quad \sum_i \alpha_i = 1$
+</div>
 
-{{ rolmip }} (The Robust LMI Parser) is a set of programs that works along with the [YALMIP](https://yalmip.github.io) toolbox, and it is designed to work specifically with optimization problems presenting parameter-dependent variables with parameters in the unit simplex. The variables are assumed to depend polynomially on the parameters, being the polynomials considered to be homogeneous. Such optimization problems arise, for example, on the analysis and synthesis conditions related to uncertain continuous or discrete systems, with constraints that are usually defined as Linear Matrix Inequalities (LMIs).
+ROLMIP (The Robust LMI Parser) is a set of programs that works along with the [YALMIP](https://yalmip.github.io) toolbox, and it is designed to work specifically with optimization problems presenting parameter-dependent variables with parameters in the unit simplex. The variables are assumed to depend polynomially on the parameters, being the polynomials considered to be homogeneous. Such optimization problems arise, for example, on the analysis and synthesis conditions related to uncertain continuous or discrete systems, with constraints that are usually defined as Linear Matrix Inequalities (LMIs).
 
-The main objective of {{ rolmip }} is to provide an easy interface for the user, starting from the definition of the variables and going through a straightforward way in defining the LMIs. In addition, once all the variables and LMIs are set they can be converted into a Matlab executable file which solves the same problem but consuming much less time.
+The main objective of ROLMIP is to provide an easy interface for the user, starting from the definition of the variables and going through a straightforward way in defining the LMIs. In addition, once all the variables and LMIs are set they can be converted into a Matlab executable file which solves the same problem but consuming much less time.
 
-The details of {{ rolmip }} can be found in the [User Manual](https://github.com/rolmip/rolmip/blob/main/docs/manual_rolmip.pdf) and the [online documentation](./manual).
+The details of ROLMIP can be found in the [User Manual](https://github.com/rolmip/rolmip/blob/main/docs/manual_rolmip.pdf) and the [online documentation](./manual).
 
----
+<div class="home-buttons" markdown>
 
-## Download
+[:lucide-check: Installation](./installation){ .md-button .md-button--primary }
 
-[:lucide-download: Download Rolmip here](https://github.com/rolmip/rolmip/archive/refs/tags/3.3.zip){ .md-button .md-button--primary }
+[<u>Explore the examples</u> :lucide-move-right:](https://github.com/rolmip/rolmip/archive/refs/tags/3.3.zip){ .md-button }
 
-## Installation
-
-To install {{ rolmip }}, it suffices to unzip the `.zip` file into a separate folder and then add the folder `rolmip` to MATLAB's path.
-
+</div>
 ---
 
 ## Contact
 
 If you found any bug or have any suggestion to improve the ROLMIP project, don't hesitate to open an issue, pull request or contact us at [agulhari@utfpr.edu.br](mailto:agulhari@utfpr.edu.br)
 
-## Team
+## The ROLMIP Foundation
 
 <div class="grid cards" markdown>
 
@@ -138,7 +137,7 @@ C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres. Algorithm 9
 
 http://doi.acm.org/10.1145/3323925
 
-#### Bibtex version
+**Bibtex version**
 
 ```bibtex
 @article{AFOP:19,
