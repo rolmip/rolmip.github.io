@@ -2,7 +2,9 @@
 icon: lucide/book-check
 ---
 
-## Learn by doing
+<h2>
+  Learn by doing
+</h2>
 
 Start with polynomial algebra, then explore stability, robust $\mathcal{H}_\infty$
 and $\mathcal{H}_2$ analysis, and $\mathcal{H}_\infty$ state-feedback control.
