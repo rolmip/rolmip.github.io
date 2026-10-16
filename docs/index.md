@@ -87,6 +87,19 @@ If you found any bug or have any suggestion to improve the ROLMIP project, don't
     [:octicons-mail-16: pldperes@unicamp.br](mailto:pldperes@unicamp.br)<br>
     [:simple-orcid: ORCID](https://orcid.org/0000-0002-6371-7338)
 
+-   :simple-devbox: __Valter J. S. Leite__
+
+    ---
+
+    ![Valter Leite](./assets/valter.jpg){ align=left width=165 .author }
+
+    Core developer of ROLMIP<br>
+    Full professor at [UFCIMG](https://www.cefetmg.br/home/)
+
+    [:octicons-mail-16: valter@ieee.org](mailto:valter@ieee.org)<br>
+    [:simple-github: /valter-leite](https://github.com/valter-leite)<br>
+    [:simple-orcid: ORCID](https://orcid.org/0000-0002-8177-4547)
+
 -   :simple-devbox: __Esdras B. Silva__
 
     ---
