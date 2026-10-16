@@ -10,6 +10,7 @@ copyright = "Copyright &copy; 2026 ROLMIP Team"
 
 nav = [
   { "Home" = "index.md" },
+  { "Getting started" = "installation.md"},
   { "Documentation" = "manual.md" },
   { "RolmiPy" = "rolmipy.md" },
   { "PolyAny" = "https://rolmip.github.io/polyany" },
