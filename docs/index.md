@@ -15,7 +15,7 @@ hide:
 
 <div class="home-equation" align="center" markdown>
   $A(\alpha) = \sum_k A_k\,\alpha_k$
-  $\quad a_i \geq 0 \quad$
+  $\quad \alpha_i \geq 0 \quad$
   $\sum_i \alpha_i = 1$
 </div>
 
