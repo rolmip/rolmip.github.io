@@ -29,7 +29,7 @@ The details of ROLMIP can be found in the [User Manual](https://github.com/rolmi
 
 [:lucide-check: Installation](./installation){ .md-button .md-button--primary }
 
-[<u>Explore the examples</u> :lucide-move-right:](https://github.com/rolmip/rolmip/archive/refs/tags/3.3.zip){ .md-button }
+[<u>Explore the examples</u> :lucide-move-right:](./examples){ .md-button }
 
 </div>
 
