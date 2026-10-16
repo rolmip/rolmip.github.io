@@ -1,0 +1,43 @@
+% Robust H-infinity state-feedback control of a continuous-time two-vertex system.
+% Requires MATLAB, ROLMIP, YALMIP and SeDuMi.
+% xdot = A(alpha)*x + Bu*u + Bw*w, 
+% %  z = C*x+Du*u+Dw*w.
+% A(alpha) = alpha*A1 + (1-alpha)*A2, 0 <= alpha <= 1.
+% A common P gives an upper bound for every fixed alpha,
+% not necessarily the exact worst-case norm over the polytope.
+yalmip('clear');
+A1 = [-1 0.2; 0 -2];
+A2 = [-2 0; 0.3 -1];
+Bu = [1; 0.5];
+Bw = [0.1; 1];
+C = [1 0.4];
+Du = 0.1;
+Dw = 0;
+A = rolmipvar({A1, A2}, 'A', 2, 1);
+Bw = rolmipvar(Bw, 'Bw');
+Bu = rolmipvar(Bu, 'Bu');
+C = rolmipvar(C, 'C');
+Du = rolmipvar(Du, 'Du');
+Dw = rolmipvar(Dw, 'Dw');
+
+eta = sdpvar(1); % Squared H-infinity bound: eta = gamma^2.
+P = rolmipvar(2,2,'P','sym',2,0); % P(a)=P;
+Z = rolmipvar(1,2,'Z','full',2,0);  
+E = rolmipvar(eta, 'eta');
+I2 = rolmipvar(eye(2), 'I2');
+
+% Bounded-real LMI, affine in alpha and the decision variables.
+BRL_11 = A*P + P*A'+Bu*Z+Z'*Bu';
+BRL_12 = P*
+BRL = [, P*B, C';
+       B'*P,       -E,  0;
+       C,           0, -1];
+LMIs = [P >= 1e-6*I2, M <= 0];
+options = sdpsettings('solver', 'sedumi', 'verbose', 0);
+result = optimize(LMIs, eta, options);
+if result.problem == 0 && min(checkset(LMIs)) > -1e-6
+    hinf_bound = sqrt(value(eta));
+    fprintf('Robust H-infinity upper bound: %.6f\n', hinf_bound);
+else
+    fprintf('Unfeasible problem\n')
+end
