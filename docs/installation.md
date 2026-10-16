@@ -19,7 +19,7 @@ An SDP solver computes the solution.
 
 Install [YALMIP](https://yalmip.github.io/download/).
 To solve the stability and norm-bound examples,
-also install [SeDuMi](https://github.com/sqlp/sedumi) and add both to your MATLAB path.
+also install [SeDuMi](https://sedumi.ie.lehigh.edu/) and add both to your MATLAB path.
 
 ---
 
