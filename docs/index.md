@@ -73,6 +73,7 @@ If you found any bug or have any suggestion to improve the ROLMIP project, don't
     Full professor at [UNICAMP](https://www.unicamp.br/en/)
 
     [:octicons-mail-16: ricfow@dt.fee.unicamp.br](mailto:ricfow@dt.fee.unicamp.br)<br>
+    [:simple-github: /ricfow](https://github.com/ricfow)<br>
     [:simple-orcid: ORCID](https://orcid.org/0000-0002-8225-7058)
 
 -   :simple-devbox: __Pedro L. D. Peres__
