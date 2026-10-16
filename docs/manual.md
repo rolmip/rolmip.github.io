@@ -6,4 +6,4 @@ icon: material/file-document
 
 !!! note "About"
 
-    The online documentation is derived from the [ROLMIP user manual]([https:/](https://github.com/rolmip/rolmip/blob/main/docs/manual_rolmip.pdf)/).
+    The online documentation is derived from the [ROLMIP user manual](https://github.com/rolmip/rolmip/blob/main/docs/manual_rolmip.pdf/).
