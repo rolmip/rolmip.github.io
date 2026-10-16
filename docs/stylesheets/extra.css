@@ -1,23 +1,50 @@
-@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 :root > * {
-    --md-title-font: "Young Serif";
-    --md-primary-fg-color: #eb4d4b;
-    --md-primary-fg-color--light: #ecb7b7;
-    --md-primary-fg-color--dark: #90030c;
-    --md-accent-fg-color: #eb4d4b;
-    --md-accent-fg-color--transparent: #eb4d4b1a;
+    --md-title-font: "EB Garamond";
+    --md-primary-fg-color: #46a6ab;
+    --md-primary-fg-color--light: #46a6ab;
+    --md-primary-fg-color--dark: #102b50;
+    --md-accent-fg-color: #46a6ab;
+    --md-accent-fg-color--transparent: #46a6ab1a;
+}
+
+[data-md-color-scheme="default"] {
+    --md-grid-color: #102b5032;
+    --md-title-color: #102b50;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-grid-color: #46a6ab32;
+    --md-title-color: #46a6ab;
 }
 
 html {
     scroll-behavior: smooth;
 }
 
-.rolmip,
-.md-header__title .md-ellipsis,
-.md-nav--primary .md-nav__title[for="__drawer"] {
+.md-header__title .md-ellipsis {
+    letter-spacing: .13em;
+    color: var(--md-title-color);
+}
+
+.md-main__inner.md-grid {
+  max-width: 80vw;
+}
+
+.logo > img {
+    transform: translateX(38px);
+}
+
+.main-title {
     font-family: var(--md-title-font), var(--md-text-font), serif;
-    font-weight: lighter;
+    font-size: 3.5em !important;
+    margin-bottom: 0 !important;
+    color: var(--md-title-color) !important;
+}
+
+.main-title > a {
+    display: none !important;
 }
 
 .md-header__topic {
@@ -26,6 +53,21 @@ html {
 
 .md-nav--secondary {
     border-color: var(--md-accent-fg-color) !important;
+}
+
+.home-equation {
+    font-size: 2em;
+    background-image: linear-gradient(var(--md-grid-color) 1px, transparent 1px), linear-gradient(90deg,var(--md-grid-color) 1px, transparent 1px);
+    background-size: 26px 30px;
+    border: 1px solid var(--md-grid-color);
+}
+
+.home-buttons {
+    display: flex;
+}
+
+.home-buttons > p {
+    margin-right: 15px;
 }
 
 .author {
