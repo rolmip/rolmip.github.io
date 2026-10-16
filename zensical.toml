@@ -26,7 +26,7 @@ rolmip = "<span class=\"rolmip\">Rolmip</span>"
 
 [project.theme]
 custom_dir = "docs/overrides"
-favicon = "assets/logo_red.svg"
+favicon = "assets/logo_white.svg"
 language = "en"
 features = [
   "announce.dismiss",
@@ -51,7 +51,7 @@ features = [
   "toc.integrate",
 ]
 
-logo = "assets/logo_red.svg"
+logo = "assets/logo_rolmip.svg"
 
 [project.theme.font]
 text = "Inter"

@@ -2,8 +2,8 @@
 icon: lucide/rocket
 ---
 
-<div align="center">
-  <img src="assets/logo_rolmip.png" alt="Rolmip Logo" width="450">
+<div class="logo" align="center">
+  <img src="assets/logo_rolmip.svg" alt="ROLMIP Logo" width="250">
 </div>
 
 <h1 align="center" markdown>
