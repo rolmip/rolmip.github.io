@@ -1,6 +1,6 @@
 [project]
 site_url = "https://rolmip.github.io/"
-site_name = "Rolmip"
+site_name = "ROLMIP"
 site_description = "The Robust LMI Parser"
 site_author = "Cristiano M. Agulhari, Alexandre Felipe, Ricardo C. L. F. Oliveira, Pedro L. D. Peres and Esdras B. Silva"
 repo_url = "https://github.com/rolmip/rolmip"

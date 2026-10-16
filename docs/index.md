@@ -32,7 +32,7 @@ To install {{ rolmip }}, it suffices to unzip the `.zip` file into a separate fo
 
 ## Contact
 
-If you found any bug or have any suggestion to improve the {{ rolmip }} project, don't hesitate to open an issue, pull request or contact us at [agulhari@utfpr.edu.br](mailto:agulhari@utfpr.edu.br)
+If you found any bug or have any suggestion to improve the ROLMIP project, don't hesitate to open an issue, pull request or contact us at [agulhari@utfpr.edu.br](mailto:agulhari@utfpr.edu.br)
 
 ## Team
 
@@ -44,7 +44,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ![Cristiano Agulhari](./assets/agulhari.jpg){ align=left width=165 .author }
 
-    Core developer of Rolmip and RolmiPy<br>
+    Core developer of ROLMIP and RolmiPy<br>
     Full professor at [UTFPR](https://www.utfpr.edu.br/)
 
     [:octicons-mail-16: agulhari@utfpr.edu.br](mailto:agulhari@utfpr.edu.br)<br>
@@ -57,7 +57,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ![Alexandre Felipe](./assets/alexandre.jpg){ align=left width=165 .author }
 
-    Core developer of Rolmip<br>
+    Core developer of ROLMIP<br>
     Research And Development Engineer at [T-Pro](https://info.tpro.io/)
 
     [:octicons-mail-16: o.alexandre.felipe@gmail.com](mailto:o.alexandre.felipe@gmail.com)<br>
@@ -69,7 +69,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ![Ricardo Oliveira](./assets/ricardo.jpg){ align=left width=165 .author }
 
-    Core developer of Rolmip<br>
+    Core developer of ROLMIP<br>
     Full professor at [UNICAMP](https://www.unicamp.br/en/)
 
     [:octicons-mail-16: ricfow@dt.fee.unicamp.br](mailto:ricfow@dt.fee.unicamp.br)<br>
@@ -81,7 +81,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
     ![Pedro Peres](./assets/pedro.jpg){ align=left width=165 .author }
 
-    Core developer of Rolmip<br>
+    Core developer of ROLMIP<br>
     Full professor at [UNICAMP](https://www.unicamp.br/en/)
 
     [:octicons-mail-16: pldperes@unicamp.br](mailto:pldperes@unicamp.br)<br>
@@ -105,7 +105,7 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 ---
 
 !!! info "About the Python implementation"
-    The Python implementation of {{ rolmip }} (RolmiPy) and its core ([PolyAny](https://github.com/rolmip/polyany)) is being developed by [Esdras Battosti](https://github.com/ximiraxelo) and [Cristiano Agulhari](https://github.com/agulhari).
+    The Python implementation of ROLMIP (RolmiPy) and its core ([PolyAny](https://github.com/rolmip/polyany)) is being developed by [Esdras Battosti](https://github.com/ximiraxelo) and [Cristiano Agulhari](https://github.com/agulhari).
 
     ??? abstract "PolyAny"
         [PolyAny](https://github.com/rolmip/polyany) is a Python package for algebraic manipulation of multivariate polynomials, which will be used to perform internal operations in RolmiPy.
@@ -114,11 +114,11 @@ If you found any bug or have any suggestion to improve the {{ rolmip }} project,
 
 ## Citations
 
-{{ rolmip }} and its derivative software ([RolmiPy](./rolmipy.md) and [PolyAny](https://github.com/rolmip/polyany)) are open source, but if you use {{ rolmip }} (and, consequently, YALMIP) in your programs, please cite us.
+ROLMIP and its derivative software ([RolmiPy](./rolmipy.md) and [PolyAny](https://github.com/rolmip/polyany)) are open source, but if you use ROLMIP (and, consequently, YALMIP) in your programs, please cite us.
 
 Citation for [YALMIP](https://yalmip.github.io/reference/lofberg2004/)
 
-### Citation for Rolmip
+### Citation for ROLMIP
 
 C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres. Algorithm 998: The Robust LMI Parser — A Toolbox to Construct LMI Conditions for Uncertain Systems. ACM Transactions on Mathematical Software, 45(3): 36:1-36:25, August 2019.
 
@@ -150,9 +150,9 @@ http://doi.acm.org/10.1145/3323925
 
 ---
 
-## Who used Rolmip
+## Who used ROLMIP
 
-[Click here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=en "Citations in Google Scholar") to see who already used {{ rolmip }}.
+[Click here](https://scholar.google.com.br/scholar?cites=4276252120509952426&as_sdt=2005&sciodt=0,5&hl=en "Citations in Google Scholar") to see who already used ROLMIP.
 
 ## Acknowledgments
 
