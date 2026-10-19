@@ -151,11 +151,11 @@ Volume 45 · Issue 3 · Article 36
 
 [Reat the article :lucide-move-up-right:](http://doi.acm.org/10.1145/3323925){ .md-button .md-button--primary }
 
-[Download citation :lucide-move-down:](./assets/rolmip.bib){ .md-button }
+[:lucide-download: Download citation](./assets/rolmip.bib){ .md-button }
 
 </div>
 
-??? quote "View BibTex"
+??? quote "View BibTeX"
 
     ```bibtex { .yaml .no-select }
     @article{AFOP:19,
