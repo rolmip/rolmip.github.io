@@ -64,6 +64,7 @@ html {
 
 .home-buttons {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .home-buttons > p {
