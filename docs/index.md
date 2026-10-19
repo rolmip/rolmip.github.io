@@ -14,9 +14,9 @@ hide:
 </h1>
 
 <div class="home-equation" align="center" markdown>
-  $A(\alpha) = \sum_k A_k\,\alpha_k$
-  $\quad \alpha_i \geq 0 \quad$
-  $\sum_i \alpha_i = 1$
+  $\;\; A(\alpha) = \sum_k A_k\,\alpha_k,$
+  $\;\; \alpha_i \geq 0, \;\;$
+  $\;\; \sum_i \alpha_i = 1 \;\;$
 </div>
 
 ROLMIP (The Robust LMI Parser) is a set of programs that works along with the [YALMIP](https://yalmip.github.io) toolbox, and it is designed to work specifically with optimization problems presenting parameter-dependent variables with parameters in the unit simplex. The variables are assumed to depend polynomially on the parameters, being the polynomials considered to be homogeneous. Such optimization problems arise, for example, on the analysis and synthesis conditions related to uncertain continuous or discrete systems, with constraints that are usually defined as Linear Matrix Inequalities (LMIs).
