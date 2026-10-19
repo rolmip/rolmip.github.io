@@ -7,39 +7,37 @@
    aria-labelledby="title desc"
    version="1.1"
    id="svg38"
-   sodipodi:docname="logo_white.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#000000"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.3177843"
-     inkscape:cx="227.58805"
-     inkscape:cy="171.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="1691"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
   <title
      id="title">ROLMIP — Simplex</title>
   <desc
      id="desc">Simplex triangular entre colchetes de matriz. Identidade vetorial do Robust LMI Parser.</desc>
   <defs
      id="defs19">
+    <style
+       id="style1">
+      .color {
+        fill: #000000;
+      }
+
+      .color-stroke {
+        stroke: #000000;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .color {
+          fill: #ffffff;
+        }
+
+        .color-stroke {
+          stroke: #ffffff;
+        }
+      }
+    </style>
     <mask
        id="gaps"
        maskUnits="userSpaceOnUse"
@@ -94,49 +92,44 @@
     <path
        d="M 98,42 H 42 v 316 h 56"
        id="path21"
-       style="stroke:#ffffff" />
+       class="color-stroke" />
     <path
        d="m 414,42 h 56 v 316 h -56"
        id="path23"
-       style="stroke:#ffffff;fill:none" />
+       class="color-stroke" />
   </g>
   <g
      id="simplex-faces"
      mask="url(#gaps)"
-     transform="translate(-28.5,-28.5)"
-     style="fill:#ffffff">
+     transform="translate(-28.5,-28.5)">
     <path
        id="left-face"
-       fill="#46a6ab"
-       d="M 256,70 118,320 256,236 Z"
-       style="fill:#ffffff" />
+       class="color"
+       d="M 256,70 118,320 256,236 Z" />
     <path
        id="right-face"
-       fill="#1b6473"
-       d="m 256,70 v 166 l 138,84 z"
-       style="fill:#ffffff" />
+       class="color"
+       d="m 256,70 v 166 l 138,84 z" />
     <path
        id="bottom-face"
-       fill="#102b50"
-       d="M 118,320 H 394 L 256,236 Z"
-       style="fill:#ffffff" />
+       class="color"
+       d="M 118,320 H 394 L 256,236 Z" />
   </g>
   <g
      id="simplex-vertices"
-     fill="#197d84"
      transform="translate(-28.5,-28.5)">
     <path
        id="circle30"
-       d="M 282,70 A 26,26 0 0 1 256,96 26,26 0 0 1 230,70 26,26 0 0 1 256,44 26,26 0 0 1 282,70 Z"
-       style="fill:#ffffff" />
+       class="color"
+       d="M 282,70 A 26,26 0 0 1 256,96 26,26 0 0 1 230,70 26,26 0 0 1 256,44 26,26 0 0 1 282,70 Z" />
     <path
        id="circle32"
-       d="m 141,320 a 23,23 0 0 1 -23,23 23,23 0 0 1 -23,-23 23,23 0 0 1 23,-23 23,23 0 0 1 23,23 z"
-       style="fill:#ffffff" />
+       class="color"
+       d="m 141,320 a 23,23 0 0 1 -23,23 23,23 0 0 1 -23,-23 23,23 0 0 1 23,-23 23,23 0 0 1 23,23 z" />
     <path
        id="circle34"
-       d="m 417,320 a 23,23 0 0 1 -23,23 23,23 0 0 1 -23,-23 23,23 0 0 1 23,-23 23,23 0 0 1 23,23 z"
-       style="fill:#ffffff" />
+       class="color"
+       d="m 417,320 a 23,23 0 0 1 -23,23 23,23 0 0 1 -23,-23 23,23 0 0 1 23,-23 23,23 0 0 1 23,23 z" />
   </g>
   <metadata
      id="metadata1">
