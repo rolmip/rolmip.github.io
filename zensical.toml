@@ -1,15 +1,18 @@
 [project]
 site_url = "https://rolmip.github.io/"
-site_name = "Rolmip"
+site_name = "ROLMIP"
 site_description = "The Robust LMI Parser"
 site_author = "Cristiano M. Agulhari, Alexandre Felipe, Ricardo C. L. F. Oliveira, Pedro L. D. Peres and Esdras B. Silva"
 repo_url = "https://github.com/rolmip/rolmip"
 repo_name = "rolmip/rolmip"
+edit_uri = "https://github.com/rolmip/rolmip.github.io/edit/main/docs/"
 
-copyright = "Copyright &copy; 2026 ROLMIP Team"
+copyright = "Copyright &copy; 2019 - 2026 The ROLMIP Foundation"
 
 nav = [
   { "Home" = "index.md" },
+  { "Getting started" = "installation.md"},
+  { "Examples" = "examples.md"},
   { "Documentation" = "manual.md" },
   { "RolmiPy" = "rolmipy.md" },
   { "PolyAny" = "https://rolmip.github.io/polyany" },
@@ -21,12 +24,9 @@ extra_javascript = [
   "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
 ]
 
-[project.extra]
-rolmip = "<span class=\"rolmip\">Rolmip</span>"
-
 [project.theme]
 custom_dir = "docs/overrides"
-favicon = "assets/logo_red.svg"
+favicon = "assets/logo_white.svg"
 language = "en"
 features = [
   "announce.dismiss",
@@ -36,22 +36,19 @@ features = [
   "content.footnote.tooltips",
   "content.tabs.link",
   "content.tooltips",
-  "content.action.view",
-  "content.action.edit",
+  "navigation.tabs",
+  "navigation.tabs.sticky",
   "navigation.expand",
-  "navigation.indexes",
   "navigation.instant",
   "navigation.instant.prefetch",
-  "navigation.path",
   "navigation.sections",
   "navigation.top",
   "navigation.tracking",
   "search.highlight",
-  "toc.follow",
   "toc.integrate",
 ]
 
-logo = "assets/logo_red.svg"
+logo = "assets/logo_rolmip.svg"
 
 [project.theme.font]
 text = "Inter"
@@ -132,3 +129,13 @@ pymdownx.tasklist = {
 }
 pymdownx.tilde = {}
 zensical.extensions.macros = {}
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/rolmip/rolmip"
+name = "Source code"
+
+[[project.extra.social]]
+icon = "material/file-document"
+link = "https://rolmip.github.io/manual"
+name = "User manual"

@@ -1,5 +1,8 @@
 ---
 icon: material/progress-helper
+hide:
+  - navigation
+  - toc
 ---
 
 # RolmiPy
