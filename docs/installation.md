@@ -52,4 +52,10 @@ rolmiptest
 
 Check the examples section and run it in MATLAB. Then explore the manual for multiple simplices, parameter-dependent variables and LMI export.
 
+<div class="home-buttons" markdown>
+
+[Check the examples section :lucide-move-up-right:](./examples){ .md-button .md-button--primary }
+
 [:lucide-file-text: Read the user manual](https://github.com/rolmip/rolmip/blob/main/docs/manual_rolmip.pdf){ .md-button }
+
+</div>
