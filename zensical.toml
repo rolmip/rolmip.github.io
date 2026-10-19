@@ -137,5 +137,5 @@ name = "Source code"
 
 [[project.extra.social]]
 icon = "material/file-document"
-link = "./manual"
+link = "https://rolmip.github.io/manual"
 name = "User manual"
