@@ -103,7 +103,7 @@ All six examples include downloadable MATLAB scripts.
     For $\dot{x} = A(\alpha)x + B\,w$ and $z = C\,x$, minimize a common bounded-real LMI certificate over a two-vertex polytope.
     The returned square root of `eta` is an upper bound on $\mathcal{H}_\infty$ for every fixed $\alpha$; a common $P$ may be conservative.
 
-    Expected result -> `eta ≈ 1.150002`
+    Expected result -> `hinf_bound ≈ 1.150002`
 
 ## 5. Compute an $\mathcal{H}_2$ bound
 
@@ -129,7 +129,7 @@ All six examples include downloadable MATLAB scripts.
     A common observability-Gramian bound $X$ gives $\mathcal{H}_2 \leq \sqrt{\mathrm{trace}(B^{\top} X B)}$ for every fixed $\alpha$.
     The result bounds the norm, not its square, and may be conservative.
 
-    Expected result -> `eta ≈ 0.825611`
+    Expected result -> `h2_bound ≈ 0.825611`
 
 ## 6. Design $\mathcal{H}_\infty$ state feedback control
 
@@ -154,4 +154,4 @@ All six examples include downloadable MATLAB scripts.
     Design a constant state-feedback gain $K = ZW^{-1}$ for a two-vertex continuous-time system with uncertain $A$ and $B_u$.
     A common $W$ gives a robust $\mathcal{H}_\infty$ upper bound for every fixed $\alpha$.
 
-    Expected result -> `eta ≈ 0.961973; K = [-806043.8469 -7270023.3120]`
+    Expected result -> `hinf_bound ≈ 0.961973; K ≈ [-805979.5699, -7269418.9426]`
