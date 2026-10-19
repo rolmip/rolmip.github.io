@@ -149,7 +149,7 @@ Volume 45 · Issue 3 · Article 36
 
 <div class="home-buttons" markdown>
 
-[Reat the article :lucide-move-up-right:](http://doi.acm.org/10.1145/3323925){ .md-button .md-button--primary }
+[Read the article :lucide-move-up-right:](http://doi.acm.org/10.1145/3323925){ .md-button .md-button--primary }
 
 [:lucide-download: Download citation](./assets/rolmip.bib){ .md-button }
 
