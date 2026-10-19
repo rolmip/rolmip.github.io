@@ -5,18 +5,20 @@
     --md-primary-fg-color: #46a6ab;
     --md-primary-fg-color--light: #46a6ab;
     --md-primary-fg-color--dark: #102b50;
-    --md-accent-fg-color: #46a6ab;
-    --md-accent-fg-color--transparent: #46a6ab1a;
 }
 
 [data-md-color-scheme="default"] {
     --md-grid-color: #102b5032;
     --md-title-color: #102b50;
+    --md-primary-fg-color: #102b50;
+    --md-accent-fg-color: #102b50;
 }
 
 [data-md-color-scheme="slate"] {
     --md-grid-color: #46a6ab32;
     --md-title-color: #46a6ab;
+    --md-primary-fg-color: #46a6ab;
+    --md-accent-fg-color: #46a6ab;
 }
 
 html {
@@ -77,7 +79,7 @@ html {
 
 .author {
     border-radius: 50%;
-    border: 3px solid var(--md-primary-fg-color);
+    border: 3px solid var(--md-title-color);
 }
 
 .paper {
