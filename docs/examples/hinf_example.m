@@ -22,7 +22,7 @@ I2 = rolmipvar(eye(2), 'I2');
 BRL = [A'*P + P*A, P*B, C';
        B'*P,       -E,  0;
        C,           0, -1];
-LMIs = [P >= 1e-6*I2, M <= 0];
+LMIs = [P >= 1e-6*I2, BRL <= 0];
 options = sdpsettings('solver', 'sedumi', 'verbose', 0);
 result = optimize(LMIs, eta, options);
 if result.problem == 0 && min(checkset(LMIs)) > -1e-6
