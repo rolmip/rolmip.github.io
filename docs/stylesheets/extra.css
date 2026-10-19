@@ -23,9 +23,11 @@ html {
     scroll-behavior: smooth;
 }
 
-.md-header__title .md-ellipsis {
+.md-header__title .md-ellipsis,
+.md-nav__title[for="__drawer"] {
     letter-spacing: .13em;
     color: var(--md-title-color);
+    font-weight: bold;
 }
 
 .md-main__inner.md-grid {
