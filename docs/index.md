@@ -1,4 +1,5 @@
 ---
+title: The Robust LMI Parser
 icon: lucide/rocket
 hide:
   - navigation
