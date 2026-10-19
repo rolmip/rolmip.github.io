@@ -135,28 +135,41 @@ If you found any bug or have any suggestion to improve the ROLMIP project, don't
 
 ROLMIP and its derivative software ([RolmiPy](./rolmipy.md) and [PolyAny](https://github.com/rolmip/polyany)) are open source, but if you use ROLMIP (and, consequently, YALMIP) in your programs, please cite us.
 
-Citation for [YALMIP](https://yalmip.github.io/reference/lofberg2004/)
+[Citation for YALMIP :lucide-move-up-right:](https://yalmip.github.io/reference/lofberg2004/){ .md-button }
 
-### Citation for ROLMIP
+<article class="paper" markdown>
+**ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE**
 
-C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres. Algorithm 998: The Robust LMI Parser — A Toolbox to Construct LMI Conditions for Uncertain Systems. ACM Transactions on Mathematical Software, 45(3): 36:1-36:25, August 2019.
+<p class="article-title">
+  Algorithm 998: The Robust LMI Parser — A Toolbox to Construct LMI Conditions for Uncertain Systems
+</p>
 
-http://doi.acm.org/10.1145/3323925
+C. M. Agulhari, A. Felipe, R. C. L. F. Oliveira, and P. L. D. Peres  
+Volume 45 · Issue 3 · Article 36
 
-**Bibtex version**
+<div class="home-buttons" markdown>
 
-```bibtex
-@article{AFOP:19,
-  author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and P. L. D. Peres},
-  title = {Algorithm 998: {T}he {R}obust {LMI} {P}arser --- {A} toolbox to construct {LMI} conditions for uncertain systems},
-  journal = {ACM Transactions on Mathematical Software},
-  volume = {45},
-  number = {3},
-  pages = {36:1--36:25},
-  year  = {2019},
-  month = {August},
-}
-```
+[Reat the article :lucide-move-up-right:](http://doi.acm.org/10.1145/3323925){ .md-button .md-button--primary }
+
+[Download citation :lucide-move-down:](./assets/rolmip.bib){ .md-button }
+
+</div>
+
+??? quote "View BibTex"
+
+    ```bibtex { .yaml .no-select }
+    @article{AFOP:19,
+    author = {C. M. Agulhari and A. Felipe and R. C. L. F. Oliveira and P. L. D. Peres},
+    title = {Algorithm 998: {T}he {R}obust {LMI} {P}arser --- {A} toolbox to construct {LMI} conditions for uncertain systems},
+    journal = {ACM Transactions on Mathematical Software},
+    volume = {45},
+    number = {3},
+    pages = {36:1--36:25},
+    year  = {2019},
+    month = {August},
+    }
+    ```
+</article>
 
 ---
 

@@ -79,3 +79,18 @@ html {
     border-radius: 50%;
     border: 3px solid var(--md-primary-fg-color);
 }
+
+.paper {
+    border-left: 2px solid var(--md-title-color);
+    padding-left: 16px;
+}
+
+.paper * {
+    margin-bottom: 0;
+}
+
+.article-title {
+    color: var(--md-title-color);
+    font-size: 1.5em;
+    font-weight: bold;
+}
