@@ -36,8 +36,6 @@ features = [
   "content.footnote.tooltips",
   "content.tabs.link",
   "content.tooltips",
-  "content.action.view",
-  "content.action.edit",
   "navigation.tabs",
   "navigation.tabs.sticky",
   "navigation.expand",

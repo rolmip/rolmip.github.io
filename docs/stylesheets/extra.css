@@ -32,8 +32,6 @@ html {
   max-width: 80vw;
 }
 
-.logo > img {
-    transform: translateX(38px);
 }
 
 .main-title {
